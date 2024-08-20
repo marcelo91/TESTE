@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Teste de Comandos Git
 
 Bem-vindo ao repositório de **Testes de Comandos Git**! Este repositório foi criado para praticar e testar diversos comandos Git em um ambiente controlado.
@@ -25,11 +24,3 @@ Aqui estão alguns exemplos de como você pode usar este repositório para testa
 
    ```bash
    git clone https://github.com/marcelo91/TESTE.git
-=======
-pasta para realizar teste no github
-
-
-
-
-teste de campo
->>>>>>> 4b264be7ad4fef50907f8bb0be64a83ac234d51c
